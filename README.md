@@ -4,7 +4,8 @@ _Hikage Finder_ helps you to find the shadiest route on hot summer days.
 
 ### Repositories
 
-[TBD]
+* [Mobile app of the "Hikage Finder" project](https://github.com/ursci/hikagefinder-server)
+* [Server application of the "Hikage Finder" project](https://github.com/ursci/hikagefinder-app)
 
 ### License
 
