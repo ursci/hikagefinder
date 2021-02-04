@@ -16,8 +16,8 @@ _Hikage Finder_ で暑い夏でも快適に移動しましょう。最短ルー�
 
 ### Download the app
 
-<small>*Currently only supported in Shibuya ward, Tokyo, Japan.</small><br>
-<small>*現在は渋谷区を対象としています。</small>
+Currently only supported in Shibuya ward, Tokyo, Japan.<br>
+現在は渋谷区を対象としています。
 
 <a href="https://play.google.com/store/apps/details?id=jp.co.georepublic.hikageapp">
   <img src="assets/google_play_badge.png" alt="Hikage Finder on Android" />
