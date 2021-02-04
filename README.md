@@ -15,8 +15,20 @@ _*現在は渋谷区を対象としています。_
 
 ### Repositories
 
-* [Mobile app of the "Hikage Finder" project](https://github.com/ursci/hikagefinder-server)
-* [Server application of the "Hikage Finder" project](https://github.com/ursci/hikagefinder-app)
+- [Mobile app of the "Hikage Finder" project](https://github.com/ursci/hikagefinder-server)
+- [Server application of the "Hikage Finder" project](https://github.com/ursci/hikagefinder-app)
+
+### Download the app
+
+- For Android:
+<a href="https://play.google.com/store/apps/details?id=jp.co.georepublic.hikageapp">
+  <img src="assets/google_play_badge.png" alt="Hikage Finder on Android" />
+</a>
+
+- For iOS:
+<a href="https://itunes.apple.com/jp/app/id1551127911">
+  <img src="assets/app_store_badge.png" alt="Hikage Finder on iOS" />
+</a>
 
 ### License
 
