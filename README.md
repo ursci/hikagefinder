@@ -28,6 +28,11 @@ _Hikage Finder_ で暑い夏でも快適に移動しましょう。最短ルー�
   <img src="assets/app_store_badge.png" alt="Hikage Finder on iOS" />
 </a>
 
+### Publication
+
+Li, X., Yoshimura, Y., Tu, W., & Ratti, C. (2019). A pedestrian level strategy to minimize outdoor sunlight exposure in hot summer. <i>arXiv preprint arXiv:1910.04312.</i>
+[Available here](https://arxiv.org/abs/1910.04312)
+
 ### License
 
 These programs are free software. See the `LICENSE` in each repository for more information.
