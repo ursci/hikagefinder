@@ -34,4 +34,5 @@ These programs are free software. See the `LICENSE` in each repository for more 
 
 ### Partners
 
-[TBD]
+- [Urban Sciences Lab](https://urbansciences.jp/)
+- [Georepublic](https://georepublic.info)
